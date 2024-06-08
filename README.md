@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ragbendra
+- 👋 Hi, I’m raghabendra shah
 - 👀 I’m interested in Artificial Intelligence and Machne Learning
 - 🌱 I’m currently learning python language and DSA
 - 💞️ I’m looking to collaborate on 
