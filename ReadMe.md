@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Ragha<br><br>Final-year student focused on Data Science and Backend Development. Building practical systems and learning by shipping projects.<br><br>## What I do<br>- Data analysis, preprocessing, and basic ML modeling<br>- Backend APIs using FastAPI<br>- Database design and SQL (MySQL)
+Hi, I'm Ragha<br><br>Final-year student focused on Data Science and Backend Development. Building practical systems and learning by shipping projects.<br><br>## What I do<br>- Data analysis, preprocessing, and basic ML modeling<br>- Backend APIs using FastAPI<br>- Database design and SQL (MySQL)
 
 
 ## 🌐 Socials:
