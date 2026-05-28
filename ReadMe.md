@@ -1,5 +1,26 @@
 # 💫 About Me:
-Hi, I'm Ragha<br><br>Final-year student focused on Data Science and Backend Development. Building practical systems and learning by shipping projects.<br><br>## What I do<br>- Data analysis, preprocessing, and basic ML modeling<br>- Backend APIs using FastAPI<br>- Database design and SQL (MySQL)
+# Hi, I'm Raghabendra 👋
+
+I'm a fresh Computer Science graduate who got into backend development by building things rather than following a structured path. Most of what I know came from sitting with a problem, breaking it, and figuring out why.
+
+I work primarily with **Python** and have spent the last few months building backend projects using **FastAPI**, **SQLAlchemy**, **MySQL**, **Redis**, and **Docker**. I'm still early in my journey and there's a lot I'm actively learning, but I try to make sure what I build is tested, documented, and reasonably thought through.
+
+
+---
+
+## What I'm comfortable with
+- Python, FastAPI, REST APIs
+- SQLAlchemy, MySQL, Redis
+- Docker, Git
+- pytest, basic async programming
+
+---
+
+## What I'm working towards
+Getting into a backend role where I can work alongside experienced engineers, contribute meaningfully, and keep learning from real production systems.
+
+---
+
 
 
 ## 🌐 Socials:
